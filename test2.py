@@ -3,6 +3,7 @@ from asciimatics.renderers import FigletText
 from asciimatics.scene import Scene
 from asciimatics.screen import Screen
 
+
 def demo(screen):
     effects = [
         Cycle(
